@@ -40,13 +40,8 @@ For scalable autonomous driving, a robust map-based localization system, indepen
 
 | Method | Image Size | Backbone | View Transform | Epoch | mAP | FPS | Download |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| InstaGraM | 128 $\times$ 352 | Effi-B0 | LSS | 30 | - | - | [model]() / [log]()
-| InstaGraM | 128 $\times$ 352 | Effi-B0 | HDMapNet | 30 | - | - | [model]() / [log]()
 | InstaGraM | 128 $\times$ 352 | Effi-B4 | LSS | 30 | - | - | [model]() / [log]()
-| InstaGraM | 128 $\times$ 352 | Effi-B4 | HDMapNet | 30 | - | - | [model]() / [log]()
-| InstaGraM | 128 $\times$ 352 | Effi-B4 + PP (C+L) | HDMapNet | 30 | - | - | [model]() / [log]()
 | InstaGraM | 256 $\times$ 704 | Effi-B4 | LSS | 30 | - | - | [model]() / [log]()
-| InstaGraM | 256 $\times$ 704 | Effi-B4 | HDMapNet | 30 | - | - | [model]() / [log]()
 
 ## Comparison
 ![comparison](assets/comparison.png "comparison")
