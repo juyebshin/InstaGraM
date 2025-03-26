@@ -8,9 +8,9 @@
 
 (<sup>:email:</sup>) corresponding author.
 
-ArXiv Preprint ([arXiv 2301.04470](https://arxiv.org/abs/2301.04470))
+Published in: [IEEE Transactions on Intellignet Transportation Systems](https://ieeexplore.ieee.org/abstract/document/10834445) (T-ITS) 2025
 
-[VCAD Workshop @ CVPR'23](https://vcad.site/papers/5/CameraReady/paper.pdf)
+Presented at: [VCAD Workshop @ CVPR'23](https://vcad.site/papers/5/CameraReady/paper.pdf)
 </div>
 
 ## Introduction
@@ -86,13 +86,14 @@ InstaGraM is built on great baseline [HDMapNet](https://github.com/Tsinghua-MARS
 ## Citation
 If you found this useful in your research, please consider citing
 ```
-@misc{shin2023instagram,
-      title={InstaGraM: Instance-level Graph Modeling for Vectorized HD Map Learning}, 
-      author={Juyeb Shin and Francois Rameau and Hyeonjun Jeong and Dongsuk Kum},
-      year={2023},
-      eprint={2301.04470},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2301.04470}, 
+@ARTICLE{10834445,
+      author={Shin, Juyeb and Jeong, Hyeonjun and Rameau, Francois and Kum, Dongsuk},
+      journal={IEEE Transactions on Intelligent Transportation Systems}, 
+      title={InstaGraM: Instance-Level Graph Modeling for Vectorized HD Map Learning}, 
+      year={2025},
+      volume={26},
+      number={2},
+      pages={1889-1899},
+      doi={10.1109/TITS.2024.3518537}
 }
 ```
