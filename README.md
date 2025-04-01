@@ -8,7 +8,7 @@
 
 (<sup>:email:</sup>) corresponding author.
 
-Published in: [IEEE Transactions on Intellignet Transportation Systems](https://ieeexplore.ieee.org/abstract/document/10834445) (T-ITS) 2025
+Published in: [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/abstract/document/10834445) (T-ITS) 2025
 
 Presented at: [VCAD Workshop @ CVPR'23](https://vcad.site/papers/5/CameraReady/paper.pdf)
 </div>
